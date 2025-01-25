@@ -1,11 +1,7 @@
 ### Site Settings ###
 title               : Maya Teng's Portfolio
-description         : |
-                      Game Designer in Development at RIT aspiring to make life changing stories.
-
-                      
-                      Hello! Welcome to my page. Please navigate to the pages by using the buttons above to see my work and learn more
-                      about me.
+description         : >-
+                      Game Designer in Development at RIT aspiring to make life changing stories.                      
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : yonakoi/yonakoi.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
