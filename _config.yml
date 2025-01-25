@@ -27,7 +27,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Maya Teng
-#  image             : images/PFP.png
+  image             : images/PFP.png
   itch.io           : chessmix
 # dribbble          : your_username
   email             : mt3632@rit.edu
