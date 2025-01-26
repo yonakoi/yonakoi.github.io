@@ -2,12 +2,12 @@
 name: Mina's Fans
 tools: [Ignore me]
 image: ../images/minas-fans.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: A program that simulates steering behaviors in NPCS. You play as an idol named Mina, who is a renowned genius in the entertainment industry! But with great fame comes great responsibility... Mina loves her fans, but this time around they seem to love her a little too much! So the only thing to do is to either run, or go back on stage to satisfy them!
 ---
-# The Movies Project
+# Mina's Fans
 
 <p class="text-center">
-{% include elements/button.html link="https://hypothetical-rice.itch.io/fish-failure" text="Play the Game!" %}
+{% include elements/button.html link="https://igme-202-2241.github.io/202-work-yonakoi/Project_04/" text="Test it Out" %}
 </p>
 
 The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
