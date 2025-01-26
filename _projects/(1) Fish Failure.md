@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
+name: Fish Failure
 tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
+image: ./images/fish-failure.png
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+external_url: https://hypothetical-rice.itch.io/fish-failure
 ---
