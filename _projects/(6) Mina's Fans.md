@@ -2,7 +2,7 @@
 name: Mina's Fans
 tools: [Ignore me]
 image: ../images/minas-fans.png
-description: A program that simulates steering behaviors in NPCS. You play as an idol named Mina, who is a renowned genius in the entertainment industry! But with great fame comes great responsibility... Mina loves her fans, but this time around they seem to love her a little too much! So the only thing to do is to either run, or go back on stage to satisfy them!
+description: A program that simulates steering behaviors in NPCS. You play as an idol named Mina, who is a renowned genius in the entertainment industry! But with great fame comes great responsibility...
 ---
 # Mina's Fans
 
