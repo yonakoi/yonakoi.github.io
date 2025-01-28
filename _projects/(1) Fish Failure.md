@@ -11,12 +11,19 @@ description: A game about a fish with legs... that wants to die?? Fish Failure i
 {% include elements/button.html link="https://hypothetical-rice.itch.io/fish-failure" text="Game Page" %}
 </p>
 
-# Overview
+## Overview
 
-The fish with legs is being hunted down by bullies called fish with arms... but luckily for it, some magical being gave it protection by gifting a gun and shield. Except... the fish with legs doesn't want it. The fish then decides to go head first into danger as the gun and shield gain a conscience and protect the fish with all its might!
+The Fish (with legs) is being hunted down by bullies called fish with arms! Luckily for it, some magical being gave it protection by gifting a gun and shield. Except... The Fish doesn't want it. The Fish then decides to go head first into danger as the gun and shield gain a conscience and protect The Fish with all its might!
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
+## Gameplay
 
-## Search Movies
+Player One uses WASD to move The Fish around and walk into dangers - the fish with arms, or the bullets they shoot. The Fish can also knock enemies into the void, so be careful! Player One wins when The Fish's health reaches zero.
 
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
+Player Two uses the Mouse to rotate the gun and shield around The Fish. Clicking the left mouse button allows the gun to shoot, and clicking the right mouse button switches the gun and shield's positions. 
+
+## My Role
+
+
+
+![preview](../images/fish-failure-title.png)
+![search](../images/fish-failure-gameplay.png)
