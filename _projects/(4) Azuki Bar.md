@@ -2,7 +2,7 @@
 name: Azuki Bar
 tools: [Support, Author, VVG]
 image: ../images/azuki-bar.png
-description: You’re the head bartender at Azuki Bar, a place known in the underground to gather information, as well as being a safe space no matter what you may be involved in… whether you’re a mafia boss or serial killer it doesn’t matter! Let’s just make drinks! Except today it seems some psychopath wants to test your knowledge…
+description: Play as bartender in an underground bar known as Azuki Bar, famous for its secrecy and safety. It doesn't matter who you are, as long as you're here to order some drinks! 
 
 ---
 # Azuki Bar
@@ -13,6 +13,7 @@ description: You’re the head bartender at Azuki Bar, a place known in the unde
 
 ## Overview
 
+You’re the head bartender at Azuki Bar, a place known in the underground to gather information, as well as being a safe space no matter what you may be involved in… whether you’re a mafia boss or serial killer it doesn’t matter! Let’s just make drinks! Except today it seems some psychopath wants to test your knowledge…
 
 ## Gameplay
 

@@ -2,6 +2,6 @@
   percentage: 100
   color: info
 
-- name: Adobe
-  percentage: 80
+- name: Maya
+  percentage: 70
   color: success
