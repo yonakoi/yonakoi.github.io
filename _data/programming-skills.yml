@@ -5,7 +5,3 @@
 - name: C++
   percentage: 50
   color:
-
-- name: Java
-  percentage: 80
-  color: secondary
