@@ -11,7 +11,7 @@ description: A game about a fish with legs... that wants to die?? Fish Failure i
 {% include elements/button.html link="https://hypothetical-rice.itch.io/fish-failure" text="Game Page" %}
 </p>
 
-### Overview
+## Overview
 
 The Fish (with legs) is being hunted down by bullies called fish with arms! Luckily for it, some magical being gave it protection by gifting a gun and shield. Except... The Fish doesn't want it. The Fish then decides to go head first into danger as the gun and shield gain a conscience and protect The Fish with all its might!
 
