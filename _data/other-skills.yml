@@ -1,11 +1,7 @@
-- name: Procreate
-  percentage: 100
+- name: Adobe Photoshop
+  percentage: 95
   color: info
 
-- name: Adobe After Effects
-  percentage: 100
-  color: success
-
-  - name: Unity
-  percentage: 70
+- name: Adobe Illustrator
+  percentage: 90
   color: success

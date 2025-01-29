@@ -15,7 +15,6 @@ description: A game about a fish with legs... that wants to die?? Fish Failure i
 
 The Fish (with legs) is being hunted down by bullies called fish with arms! Luckily for it, some magical being gave it protection by gifting a gun and shield. Except... The Fish doesn't want it. The Fish then decides to go head first into danger as the gun and shield gain a conscience and protect The Fish with all its might!
 
-![preview](../images/fish-failure-title.png)
 
 ## Gameplay
 
@@ -27,4 +26,5 @@ Player Two uses the Mouse to rotate the gun and shield around The Fish. Clicking
 
 For this project, I did all of the art and helped with the programming. 
 
+![preview](../images/fish-failure-title.png)
 ![search](../images/fish-failure-gameplay.png)
