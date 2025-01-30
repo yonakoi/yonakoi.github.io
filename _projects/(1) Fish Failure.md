@@ -7,9 +7,11 @@ description: A game about a fish with legs... that wants to die?? Fish Failure i
 
 # Fish Failure
 
+𓆝༄⋆｡°✩
 <p class="text-center">
 {% include elements/button.html link="https://hypothetical-rice.itch.io/fish-failure" text="Game Page" %}
 </p>
+𓆝༄⋆｡°✩
 
 ## Overview
 
@@ -25,7 +27,7 @@ Player Two uses the Mouse to rotate the gun and shield around The Fish. Clicking
 
 ## My Role
 
-For this project, I came up with the 'story' of the game, was the lead and sole artist, and helped with the programming. This project 
+For this project, I came up with the 'story' of the game, was the lead and sole artist, and helped with the programming. This project was incredibly fun and exciting to make, as it was my first real game. It 
 
 
 ![preview](../images/fish-failure-title.png)
