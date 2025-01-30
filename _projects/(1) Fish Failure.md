@@ -25,11 +25,9 @@ Player Two uses the Mouse to rotate the gun and shield around The Fish. Clicking
 
 ## My Role
 
-For this project, I came up with the 'story' of the game, was the lead and sole art director, and helped with the programming. This project was incredibly fun and exciting to make, as it was my first **real** game. This game highlights my key skills to design, program, thrive in collaborative environments, and bring creative game concepts to life.
-
 Because this game was made in Monogame, it really honed my skills in C#. Having to do everything manually, I set up the game states, the buttons, and a few mechanics such as health and small effects like bubbles that float from the bottom to the top of the screen. I also coded the animations for walking and the game over screens, with a bit of help from my teammates.
 
-The art was the first thing I did once we got our ideas down. I worked on the art concepts with my group, and then brought the art to life before getting into the code. Doing all the art taught me what it means to consider every aspect of how to make a program visually appealing. Small things like background items, making the buttons fit the aesthetic, and the bubbles I mentioned earlier are all important into bringing the game to life.
+I was the lead and sole art director in this project. Doing all the art taught me what it means to consider every aspect of how to make a program visually appealing. Small things like background items, making the buttons fit the aesthetic, and the bubbles I mentioned earlier are all important into bringing the game to life.
 
 Overall, because this was my first game, I had a lot of fun experimenting with different art and struggling with manual coding. I also really appreciated my team because they went so above and beyond in areas that I lack, such as the music and sound effects for the game.
 
