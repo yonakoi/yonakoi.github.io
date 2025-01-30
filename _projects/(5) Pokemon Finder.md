@@ -6,8 +6,8 @@ description: A website that uses the Pokemon API to filter out pokemon based on 
 ---
 # Pokemon Finder
 
-<p class="text-center">
-{% include elements/button.html link="https://people.rit.edu/mt3632/235/project2/" text="Find Some Pokemon!" %}
+<p class="text-center">◓
+{% include elements/button.html link="https://people.rit.edu/mt3632/235/project2/" text="Find Some Pokemon!" %}◓
 </p>
 
 ## Overview
@@ -22,4 +22,4 @@ description: A website that uses the Pokemon API to filter out pokemon based on 
 ![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
 ![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
 
-⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆
+<p class="text-center">⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆</p>

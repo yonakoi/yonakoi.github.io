@@ -7,8 +7,8 @@ description: A pizza delivery man named Dan is working his day by day shift, unt
 
 # Delivery Dan & The Wizard Man
 
-<p class="text-center">
-{% include elements/button.html link="https://rustypepper.itch.io/delivery-dan" text="Game Page" %}
+<p class="text-center">𐂐◯𓇋
+{% include elements/button.html link="https://rustypepper.itch.io/delivery-dan" text="Game Page" %}𐂐◯𓇋
 </p>
 
 ## Overview
@@ -27,4 +27,4 @@ For this project, I was the sole artist.
 ![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
 ![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
 
-‧₊˚ ⋅  𓐐𓎩 ‧₊˚ ⋅
+<p class="text-center">‧₊˚ ⋅  𓐐𓎩 ‧₊˚ ⋅</p>

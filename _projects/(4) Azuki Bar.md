@@ -7,8 +7,8 @@ description: Play as bartender in an underground bar known as Azuki Bar, famous 
 ---
 # Azuki Bar
 
-<p class="text-center">
-{% include elements/button.html link="https://people.rit.edu/mt3632/235/project3/" text="Play the Game!" %}
+<p class="text-center">✧˖ °
+{% include elements/button.html link="https://people.rit.edu/mt3632/235/project3/" text="Play the Game!" %}⋆｡°✩
 </p>
 
 ## Overview
@@ -26,4 +26,4 @@ You’re the head bartender at Azuki Bar, a place known in the underground to ga
 ![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
 ![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
 
-✮ ⋆ ˚｡𖦹 ⋆｡°✩
+<p class="text-center">✮ ⋆ ˚｡𖦹 ⋆｡°✩</p>
