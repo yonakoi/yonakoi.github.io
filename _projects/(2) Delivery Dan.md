@@ -26,3 +26,5 @@ For this project, I was the sole artist.
 
 ![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
 ![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
+
+‧₊˚ ⋅  𓐐𓎩 ‧₊˚ ⋅

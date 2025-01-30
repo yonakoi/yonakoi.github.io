@@ -26,6 +26,4 @@ You’re the head bartender at Azuki Bar, a place known in the underground to ga
 ![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
 ![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
 
-<p class="text-center">
-{% include elements/button.html link="https://github.com/yousinix/portfolYOU" text="Learn More" %}
-</p>
+✮ ⋆ ˚｡𖦹 ⋆｡°✩
