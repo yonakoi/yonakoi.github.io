@@ -7,11 +7,9 @@ description: A game about a fish with legs... that wants to die?? Fish Failure i
 
 # Fish Failure
 
-𓆝༄⋆｡°✩
-<p class="text-center">
+<p class="text-center">𓆝༄⋆｡°✩
 {% include elements/button.html link="https://hypothetical-rice.itch.io/fish-failure" text="Game Page" %}
-</p>
-𓆝༄⋆｡°✩
+𓆝༄⋆｡°✩</p>
 
 ## Overview
 
@@ -33,4 +31,4 @@ For this project, I came up with the 'story' of the game, was the lead and sole 
 ![preview](../images/fish-failure-title.png)
 ![search](../images/fish-failure-gameplay.png)
 
-⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
+<p class="text-center">⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p>
