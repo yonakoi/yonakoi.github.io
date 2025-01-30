@@ -22,6 +22,7 @@ Player One uses WASD to move The Fish around and walk into dangers - the fish wi
 
 Player Two uses the Mouse to rotate the gun and shield around The Fish. Clicking the left mouse button allows the gun to shoot, and clicking the right mouse button switches the gun and shield's positions. Player Two wins when all the enemies in the level are dead.
 
+![preview](../images/fish-failure-title.png)
 
 ## My Role
 
@@ -32,7 +33,7 @@ I was the lead and sole art director in this project. Doing all the art taught m
 Overall, because this was my first game, I had a lot of fun experimenting with different art and struggling with manual coding. I also really appreciated my team because they went so above and beyond in areas that I lack, such as the music and sound effects for the game.
 
 
-![preview](../images/fish-failure-title.png)
+![preview](../images/fish-failure-levels.png)
 ![search](../images/fish-failure-gameplay.png)
 
 <p class="text-center">⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p>
