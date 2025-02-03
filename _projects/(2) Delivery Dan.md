@@ -17,13 +17,14 @@ The customer is a wizard who becomes enraged because delivery Dan forgot the wiz
 
 ## Gameplay
 
+The player uses WASD to move and space to jump. The player can right click to grab boxes with their tentacle arm, and click again to drop on top of enemies. The player can also left click to grapple on to surfaces and swing across. The player must avoid enemies or kill them and try not to fall to their death. They get 3 lives until it's game over.
 
+![search](../images/delivery-dan-gameplay.png)
 
 ## My Role
 
-For this project, I was the sole artist. I spent ~6-8 hours a day for a week getting in all the assets. 
+For this project, I was the sole artist. I spent ~6-8 hours a day for a week getting in all the assets. This project really taught me what it means to have a strict deadline and not too much time. If I had more time, I wish I could've made more detailed tiles and backgrounds. Even so, I was very proud of the pixel art I created and what I was able to complete with such little time.
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
+![preview](../images/delivery-dan-opening.png)
 
 <p class="text-center">‧₊˚ ⋅  𓐐𓎩 ‧₊˚ ⋅</p>
