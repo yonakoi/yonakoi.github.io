@@ -14,6 +14,7 @@ Tired of their lives in the wastes, the story follows the "pinball twins" as the
 
 ## Gameplay
 
+Dynamic Pinball Inspired Boss Rush. Use the shift buttons to flip the left and right bumpers, and Z and / to dash.
 
 ![preview](../images/twinball-title-concept.png)
 art piece by a lead programmer and designer, Willow Frank.
