@@ -4,8 +4,42 @@ title: Personal Pieces
 weight: 2
 permalink: /blog/
 ---
+<div class="media-gallery">
+  
+    {% for file in site.static_files %}
+        {% if file.path contains "videos/" %}
+            {% if file.extname == '.mp4' or file.extname == '.mov' %}
+            
+            {% assign filenameparts = file.path | split: "/" %}
+            {% assign filename = filenameparts | last | replace: file.extname,"" %}
+    
+            <a href="{{ file.path }}" title="{{ filename }}">
+                <video width="300" height="300" controls>
+                    <source src="{{ file.path }}" type="video/{{ file.extname | remove: '.' }}">
+                    Your browser does not support the video tag.
+                </video>
+                <span>{{ filename }}</span>
+            </a>
+            {% endif %}
+        {% elsif file.path contains "images/illustrations" %}
+            {% if file.extname == '.jpg' or file.extname == '.JPG' or file.extname == '.webp' or file.extname == '.WEBP' %}
+    
+            {% assign filenameparts = file.path | split: "/" %}
+            {% assign filename = filenameparts | last | replace: file.extname,"" %}
+    
+            <a href="{{ file.path }}" title="{{ filename }}">
+                <img src="//wsrv.nl/?url=yonakoi.github.io{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" />
+                <span>{{ filename }}</span>
+            </a>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+    </div>
+    
+## Favorite Edits
 
-## Edits
+Please check out my instagram @mikaenls to see more ^_^
+
 {% include elements/video.html id="ZWwuaV0O7FI" %}
 
 ## Artworks
