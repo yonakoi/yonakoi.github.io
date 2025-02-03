@@ -4,4 +4,8 @@
 
 - name: Maya
   percentage: 70
+  color: info
+
+- name: After Effects
+  percentage: 100
   color: success

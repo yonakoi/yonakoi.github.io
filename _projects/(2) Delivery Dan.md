@@ -21,8 +21,7 @@ The customer is a wizard who becomes enraged because delivery Dan forgot the wiz
 
 ## My Role
 
-
-For this project, I was the sole artist. 
+For this project, I was the sole artist. I spent ~6-8 hours a day for a week getting in all the assets. 
 
 ![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
 ![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
