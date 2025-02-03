@@ -4,15 +4,46 @@ title: Personal Pieces
 weight: 2
 permalink: /blog/
 ---
+---
+layout: default
+title: Personal Pieces
+weight: 2
+permalink: /blog/
+---
 <h1>Favorite Edits</h1>
 <br>
 <p>Please check out my instagram @mikaenls to see more ^_^</p>
 <br>
 
 <style>
-    .media-gallery {overflow: auto; margin-left: -1%!important;}
-    .media-gallery a {float: left; display: block; text-align: center; text-decoration: none!important;}
-    </style>
+    .media-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        justify-content: center;
+    }
+
+    .media-gallery a {
+        display: block;
+        text-align: center;
+        text-decoration: none!important;
+        max-width: 400px; 
+    }
+
+    .media-gallery video {
+        width: 100%; 
+        height: auto; 
+        border-radius: 10px;
+    }
+
+    .media-gallery a span {
+        display: block;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+        padding: 3px 0;
+    }
+</style>
 
 <div class="media-gallery">
   
@@ -24,14 +55,14 @@ permalink: /blog/
             {% assign filename = filenameparts | last | replace: file.extname,"" %}
     
             <a href="{{ file.path }}" title="{{ filename }}">
-                <video width="300" height="300" controls>
+                <video controls>
                     <source src="{{ file.path }}" type="video/{{ file.extname | remove: '.' }}">
                     Your browser does not support the video tag.
                 </video>
                 <span>{{ filename }}</span>
             </a>
             {% endif %}
-        {% elsif file.path contains "images/illustrations" %}
+        {% elsif file.path contains "images/" %}
             {% if file.extname == '.jpg' or file.extname == '.JPG' or file.extname == '.webp' or file.extname == '.WEBP' %}
     
             {% assign filenameparts = file.path | split: "/" %}
@@ -44,8 +75,7 @@ permalink: /blog/
             {% endif %}
         {% endif %}
     {% endfor %}
-    </div>
-    
+</div>
 
 {% include elements/video.html id="ZWwuaV0O7FI" %}
 
