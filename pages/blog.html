@@ -6,6 +6,7 @@ permalink: /blog/
 ---
 
 <h1>Favorite Edits</h1>
+<br>
 <p>Please check out my instagram @mikaenls to see more ^_^</p>
 <br>
 
@@ -13,7 +14,7 @@ permalink: /blog/
     .media-gallery {
         display: flex;
         flex-wrap: wrap;
-        gap: 15px; 
+        gap: 15px; /* Adds space between videos */
         justify-content: center;
     }
 
@@ -21,13 +22,13 @@ permalink: /blog/
         display: block;
         text-align: center;
         text-decoration: none!important;
-        max-width: 400px;
+        max-width: 400px; /* Limits width to prevent oversized videos */
     }
 
     .media-gallery video {
-        width: 100%; 
-        height: auto; 
-        border-radius: 10px;
+        width: 100%; /* Makes videos responsive */
+        height: auto; /* Maintains aspect ratio */
+        border-radius: 10px; /* Optional: gives rounded corners */
     }
 
     .media-gallery a span {
@@ -38,6 +39,7 @@ permalink: /blog/
         padding: 3px 0;
     }
 
+    /* Center YouTube Video */
     .youtube-container {
         display: flex;
         justify-content: center;
@@ -47,7 +49,29 @@ permalink: /blog/
     .youtube-container iframe {
         width: 560px;
         height: 315px;
-        max-width: 100%; 
+        max-width: 100%; /* Ensures it scales on smaller screens */
+        border-radius: 10px; /* Optional rounded corners */
+    }
+
+    /* Artworks Styling */
+    .artworks-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    .artworks-gallery a {
+        display: block;
+        text-align: center;
+        text-decoration: none!important;
+        max-width: 400px;
+    }
+
+    .artworks-gallery img {
+        width: 100%;
+        height: auto;
         border-radius: 10px;
     }
 </style>
@@ -68,9 +92,22 @@ permalink: /blog/
                 <span>{{ filename }}</span>
             </a>
             {% endif %}
-        {% elsif file.path contains "images/" %}
-            {% if file.extname == '.jpg' or file.extname == '.JPG' or file.extname == '.webp' or file.extname == '.WEBP' %}
-    
+        {% endif %}
+    {% endfor %}
+</div>
+
+<!-- Centered YouTube Video -->
+<div class="youtube-container">
+    {% include elements/video.html id="ZWwuaV0O7FI" %}
+</div>
+
+<h1>Artworks</h1>
+
+<div class="artworks-gallery">
+    {% for file in site.static_files %}
+        {% if file.path contains "images/artworks/" %}
+            {% if file.extname == '.jpg' or file.extname == '.jpeg' %}
+            
             {% assign filenameparts = file.path | split: "/" %}
             {% assign filename = filenameparts | last | replace: file.extname,"" %}
     
@@ -83,9 +120,3 @@ permalink: /blog/
     {% endfor %}
 </div>
 
-<h2>Short Film</h2>
-<div class="youtube-container">
-    {% include elements/video.html id="ZWwuaV0O7FI" %}
-</div>
-
-<h1>Artworks</h1>
