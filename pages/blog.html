@@ -14,7 +14,7 @@ permalink: /blog/
     .media-gallery {
         display: flex;
         flex-wrap: wrap;
-        gap: 15px; /* Adds space between videos */
+        gap: 15px; 
         justify-content: center;
     }
 
@@ -22,13 +22,13 @@ permalink: /blog/
         display: block;
         text-align: center;
         text-decoration: none!important;
-        max-width: 400px; /* Limits width to prevent oversized videos */
+        max-width: 400px; 
     }
 
     .media-gallery video {
-        width: 100%; /* Makes videos responsive */
-        height: auto; /* Maintains aspect ratio */
-        border-radius: 10px; /* Optional: gives rounded corners */
+        width: 100%; 
+        height: auto; 
+        border-radius: 10px; 
     }
 
     .media-gallery a span {
@@ -49,8 +49,8 @@ permalink: /blog/
     .youtube-container iframe {
         width: 560px;
         height: 315px;
-        max-width: 100%; /* Ensures it scales on smaller screens */
-        border-radius: 10px; /* Optional rounded corners */
+        max-width: 100%;
+        border-radius: 10px; 
     }
 
     /* Artworks Styling */
@@ -105,7 +105,7 @@ permalink: /blog/
 
 <div class="artworks-gallery">
     {% for file in site.static_files %}
-        {% if file.path contains "images/artworks/" %}
+        {% if file.path contains "images/personal pieces/" %}
             {% if file.extname == '.jpg' or file.extname == '.jpeg' %}
             
             {% assign filenameparts = file.path | split: "/" %}
