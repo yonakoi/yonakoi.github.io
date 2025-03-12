@@ -2,9 +2,7 @@
 name: Mina's Fans
 tools: [Unity, Procreate, Visual Studio, C#]
 image: ../images/minas-fans.png
-description: A program that simulates steering behaviors in NPCS. You play as an idol named Mina, who is a renowned genius in the entertainment industry! But with great fame comes great responsibility...
-
-Solo Project. Programmer and artist using Unity, Procreate, and C#. Click to learn more.
+description: A program that simulates steering behaviors in NPCS. You play as an idol named Mina, who is a renowned genius in the entertainment industry! But with great fame comes great responsibility... Solo Project. Programmer and artist using Unity, Procreate, and C#. Click to learn more.
 ---
 # Mina's Fans
 

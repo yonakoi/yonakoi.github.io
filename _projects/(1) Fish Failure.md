@@ -2,9 +2,7 @@
 name: Fish Failure
 tools: [C#, Monogame, Visual Studio, Procreate]
 image: ../images/fish-failure.png
-description: A game about a fish with legs... that wants to die?? Fish Failure is a competitive 2D two player game.
-
-I was the Lead Artist as well as a programmer. Click to learn more.
+description: A game about a fish with legs... that wants to die?? Fish Failure is a competitive 2D two player game. I was the Lead Artist as well as a programmer. Click to learn more.
 ---
 
 # Fish Failure

@@ -2,9 +2,7 @@
 name: Azuki Bar
 tools: [HTML, CSS, Javascript, Procreate, Resprite]
 image: ../images/azuki-bar.png
-description: Play as bartender in an underground bar known as Azuki Bar, famous for its secrecy and safety. It doesn't matter who you are, as long as you're here to order some drinks! 
-
-Solo Project; used HTML and Javascript to program and drew every asset. Click to learn more.
+description: Play as bartender in an underground bar known as Azuki Bar, famous for its secrecy and safety. It doesn't matter who you are, as long as you're here to order some drinks!  Solo Project; used HTML and Javascript to program and drew every asset. Click to learn more.
 ---
 # Azuki Bar
 

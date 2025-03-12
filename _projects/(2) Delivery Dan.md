@@ -2,9 +2,7 @@
 name: Delivery Dan & The Wizard Man
 tools: [Godot, Godot Script, Resprite]
 image: ../images/delivery-dan.png
-description: A pizza delivery man named Dan is working his day by day shift, until he gets an unusual customer. 2D Pixel Platformer.
-
-I was the lead and sole Artist, and set up all the graphics in Godot. Click to learn more.
+description: A pizza delivery man named Dan is working his day by day shift, until he gets an unusual customer. 2D Pixel Platformer. I was the lead and sole Artist, and set up all the graphics in Godot. Click to learn more.
 ---
 
 # Delivery Dan & The Wizard Man

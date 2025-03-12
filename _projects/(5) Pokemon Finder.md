@@ -2,9 +2,7 @@
 name: Pokemon Finder
 tools: [HTML, CSS, Javascript, API]
 image: ../images/pokemon-finder.png
-description: A website that uses the Pokemon API to filter out pokemon based on type, region, and amount.
-
-Solo project. Learned how to import API to create a program. Click to learn more.
+description: A website that uses the Pokemon API to filter out pokemon based on type, region, and amount. Solo project. Learned how to import API to create a program. Click to learn more.
 ---
 # Pokemon Finder
 
