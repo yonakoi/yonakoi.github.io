@@ -3,6 +3,8 @@ name: Twinball
 tools: [Godot, Godot Script, Procreate]
 image: ../images/twinball.png
 description: An indie 2D pinball inspired game where two twins, after finding a treasure map, decide that their miserable life must change. As it turns out, these twins aren't the only ones hunting down this treasure... [IN DEVELOPMENT].
+
+Lead Artist. Click to learn more.
 ---
 # Twinball
 
