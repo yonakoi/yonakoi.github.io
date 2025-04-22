@@ -6,7 +6,7 @@ description: An indie 2D pinball inspired game where two twins, after finding a 
 ---
 # Twinball
 
-This Game is a work in progress.
+This Game is a work in progress, funded by the Magic Maker Program at RIT
 
 ## Overview
 
@@ -23,6 +23,7 @@ art piece by a lead programmer and designer, Willow Frank.
 
 I am the art lead in this project as well as available to help with programming when needed. Once I joined the team, I created concept art for the main characters as shown below, as well as for the boss for the current level we wish to present as a demo. After that, I've been creating assets for the level and helping flesh out the story and world building in more details.
 
+![preview](../images/twinball-titlescreen.png)
 ![preview](../images/twinball-twins-concept.png)
 ![search](../images/twinball-boss-concept.png)
 
