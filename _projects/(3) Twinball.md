@@ -7,6 +7,9 @@ description: An indie 2D pinball inspired game where two twins, after finding a 
 # Twinball
 
 This Game is a work in progress, funded by the Magic Maker Program at RIT
+<p class="text-center">ִ ࣪𖤐
+{% include elements/button.html link="https://rustypepper.itch.io/twinball" text="Play The Demo!" %}ִ ࣪𖤐
+</p>
 
 ## Overview
 
