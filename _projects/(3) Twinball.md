@@ -19,16 +19,16 @@ Tired of their lives in the wastes, the story follows the "pinball twins" as the
 
 Dynamic Pinball Inspired Boss Rush. Use the shift buttons to flip the left and right bumpers, and Z and / to dash.
 
-![preview](../images/twinball-title-concept.png)
+![preview](../images/twinball-titlescreen.png)
 art piece by a lead programmer and designer, Willow Frank.
 
 ## My Role
 
 I am the art lead in this project as well as available to help with programming when needed. Once I joined the team, I created concept art for the main characters as shown below, as well as for the boss for the current level we wish to present as a demo. After that, I've been creating assets for the level and helping flesh out the story and world building in more details.
 
-![preview](../images/twinball-titlescreen.png)
 ![preview](../images/twinball-twins-concept.png)
 ![search](../images/twinball-boss-concept.png)
+![preview](../images/twinball-title-concept.png)
 
 <p class="text-center">𝕏
 {% include elements/button.html link="https://x.com/TwinballGame" text="Twitter Page" %}𝕏
