@@ -6,8 +6,8 @@ description: A program that simulates steering behaviors in NPCS. You play as an
 ---
 # Mina's Fans
 
-<p class="text-center">𝄞⨾𓍢ִ໋
-{% include elements/button.html link="https://igme-202-2241.github.io/202-work-yonakoi/Project_04/" text="Test it Out" %}𝄞⨾𓍢ִ໋
+<p class="text-center">♬ﾟ.
+{% include elements/button.html link="https://igme-202-2241.github.io/202-work-yonakoi/Project_04/" text="Test it Out" %}♬ﾟ.
 </p>
 
 ## Overview
