@@ -4,12 +4,64 @@ title: Gallery
 weight: 2
 permalink: /blog/
 ---
+<h1>⋆˚࿔Gallery</h1>
+<br>
+<p>[DESCRIPTION OF THIS PAGE]</p>
+<br>
 
-<h1>⋆˚࿔Favorite Edits</h1>
+
+<h2>⋆˚࿔Artworks</h2>
+<p>Click item to see full art piece.</p>
+<div class="artworks-gallery">
+    {% for file in site.static_files %}
+        {% if file.path contains "images/artworks/" %}
+            {% if file.extname == '.png'%}
+            
+            {% assign filenameparts = file.path | split: "/" %}
+            {% assign filename = filenameparts | last | replace: file.extname,"" %}
+    
+            <a href="{{ file.path }}" title="{{ filename }}">
+                <img src="//wsrv.nl/?url=yonakoi.github.io{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" />
+                <span>{{ filename }}</span>
+            </a>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</div>
+
+<h2>⋆˚࿔Favorite Edits</h2>
 <br>
 <p>If you would like to see more, please check out my instagram @mikaenls to see more („• ֊ •„)੭</p>
 <p>All edits displayed are made with After Effects, including the short film at the bottom.</p>
 <br>
+<div class="media-gallery">
+    {% for file in site.static_files %}
+        {% if file.path contains "videos/" %}
+            {% if file.extname == '.mp4' or file.extname == '.mov' %}
+            
+            {% assign filenameparts = file.path | split: "/" %}
+            {% assign filename = filenameparts | last | replace: file.extname,"" %}
+    
+            <a href="{{ file.path }}" title="{{ filename }}">
+                <video controls>
+                    <source src="{{ file.path }}" type="video/{{ file.extname | remove: '.' }}">
+                    Your browser does not support the video tag.
+                </video>
+                <span>{{ filename }}</span>
+            </a>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</div>
+
+ <h3>⋆˚࿔Short Film</h3>
+ <p>A short film written, directed, edited, and drawn by me.</p>
+<div class="youtube-container">
+    {% include elements/video.html id="ZWwuaV0O7FI" %}
+</div>
+
+<p class = "text-center">⋆꙳·̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆</p>
+
 <style>
     .media-gallery {
         display: flex;
@@ -76,50 +128,4 @@ permalink: /blog/
     }
 </style>
 
-<div class="media-gallery">
-    {% for file in site.static_files %}
-        {% if file.path contains "videos/" %}
-            {% if file.extname == '.mp4' or file.extname == '.mov' %}
-            
-            {% assign filenameparts = file.path | split: "/" %}
-            {% assign filename = filenameparts | last | replace: file.extname,"" %}
-    
-            <a href="{{ file.path }}" title="{{ filename }}">
-                <video controls>
-                    <source src="{{ file.path }}" type="video/{{ file.extname | remove: '.' }}">
-                    Your browser does not support the video tag.
-                </video>
-                <span>{{ filename }}</span>
-            </a>
-            {% endif %}
-        {% endif %}
-    {% endfor %}
-</div>
-
- <h3>⋆˚࿔Short Film</h3>
- <p>A short film written, directed, edited, and drawn by me.</p>
-<div class="youtube-container">
-    {% include elements/video.html id="ZWwuaV0O7FI" %}
-</div>
-
-<h1>⋆˚࿔Artworks</h1>
-<p>Click item to see full art piece.</p>
-<div class="artworks-gallery">
-    {% for file in site.static_files %}
-        {% if file.path contains "images/artworks/" %}
-            {% if file.extname == '.png'%}
-            
-            {% assign filenameparts = file.path | split: "/" %}
-            {% assign filename = filenameparts | last | replace: file.extname,"" %}
-    
-            <a href="{{ file.path }}" title="{{ filename }}">
-                <img src="//wsrv.nl/?url=yonakoi.github.io{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" />
-                <span>{{ filename }}</span>
-            </a>
-            {% endif %}
-        {% endif %}
-    {% endfor %}
-</div>
-
-<p class = "text-center">⋆꙳·̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆</p>
 
