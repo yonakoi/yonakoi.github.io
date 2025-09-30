@@ -28,7 +28,7 @@ I was the art lead in this project. Once I joined the team, I created concept ar
 ![preview](../images/twinball-pause-screen.png)
 ![search](../images/twinball-loading-screen.png)
 
-During the summer of 2025, I worked on making the art style more unique and flashy. I want the visuals to really stand out and grow sharper. As the Art Lead, I will be making sure everything is consistent as well as eye catching. I started to add coloring to my focus, and would color the screens and character art to really make them pop. We were able to finish one level, a tutorial, and several other menus. Examples are shown below.
+During the summer of 2025, I worked on making the art style more unique and flashy. I want the visuals to really stand out and grow sharper. As the Art Lead, I will be making sure everything is consistent as well as eye catching. I started to add coloring to my focus, and would color the screens and character art to really make them pop. We were able to finish one level, a tutorial, and several other menus. Examples of rough concepts are shown below.
 
 ![preview](../images/twinball-twins-concept.png)
 ![search](../images/twinball-boss-concept.png)
