@@ -13,7 +13,7 @@ description: A game about a fish with legs... that wants to die?? Fish Failure i
 
 ## Overview
 
-The Fish (with legs) is being hunted down by bullies called fish with arms! Luckily for it, some magical being gave it protection by gifting a gun and shield. Except... The Fish doesn't want it. The Fish then decides to go head first into danger as the gun and shield gain a conscience and protect The Fish with all its might!
+The Fish (with legs) is being hunted down by bullies called fish with arms! Luckily for it, some magical being gave it protection by gifting a gun and shield. Except... The Fish doesn't want it. The Fish then decides to go head first into danger as the gun and shield gains a conscience to protect The Fish with all its might!
 
 
 ## Gameplay
@@ -26,9 +26,9 @@ Player Two uses the Mouse to rotate the gun and shield around The Fish. Clicking
 
 ## My Role
 
-Because this game was made in Monogame, it really honed my skills in C#. Having to do everything manually, I set up the game states, the buttons, and a few mechanics such as health and small effects like bubbles that float from the bottom to the top of the screen. I also coded the animations for walking and the game over screens, with a bit of help from my teammates.
+Because this game was made in Monogame, it really honed my skills in C#. Having to do everything manually, I focused on the UX/UI, such as setting up the game states, the buttons, and a few mechanics such as health and small effects like bubbles that float from the bottom to the top of the screen. I also coded the animations for walking and the game over screens, with a bit of help from my teammates.
 
-I was the lead and sole art director in this project. Doing all the art taught me what it means to consider every aspect of how to make a program visually appealing. Small things like background items, making the buttons fit the aesthetic, and the bubbles I mentioned earlier are all important into bringing the game to life.
+I was the lead and sole art director in this project. Doing all the art taught me what it means to consider every aspect of how to make a program visually appealing. Small things like background items, making the buttons fit the aesthetic, and the bubbles I mentioned earlier are all important into bringing the game to life. 
 
 Overall, because this was my first game, I had a lot of fun experimenting with different art and struggling with manual coding. I also really appreciated my team because they went so above and beyond in areas that I lack, such as the music and sound effects for the game.
 
