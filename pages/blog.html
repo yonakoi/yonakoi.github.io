@@ -17,7 +17,7 @@ permalink: /blog/
 <div class="artworks-gallery">
     {% for file in site.static_files %}
         {% if file.path contains "images/artworks/" %}
-            {% if file.extname == '.png'%}
+        {% if file.extname == '.png' or file.extname == '.PNG' %}
             
             {% assign filenameparts = file.path | split: "/" %}
             {% assign filename = filenameparts | last | replace: file.extname,"" %}
