@@ -1,7 +1,7 @@
 ---
 name: No Place To Lie
 tools: [Procreate, ReSprite, Visual Studio, RPGMaker MV]
-image: ../images/no-place-to-lie-cover
+image: ../images/no-place-to-lie-cover.PNG
 description: A 2D Visual Novel about a struggling detective trying to solve a case that closely resembles her past. I was lead designer, storywriter, and artist. Click to learn more.
 ---
 
