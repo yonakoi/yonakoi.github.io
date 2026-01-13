@@ -1,15 +1,15 @@
 ---
 name: No Place To Lie
 tools: [Procreate, ReSprite, Visual Studio, RPGMaker MV]
-image: ../images/fish-failure.png
-description: A game about a struggling detective trying to solve a case that closely resembles her past. I was lead designer, storywriter, and artist. Click to learn more.
+image: ../images/no-place-to-lie-cover.png
+description: A 2D Visual Novel about a struggling detective trying to solve a case that closely resembles her past. I was lead designer, storywriter, and artist. Click to learn more.
 ---
 
 # No Place To Lie
 
-<p class="text-center">𓆝༄⋆｡°✩
-{% include elements/button.html link="https://hypothetical-rice.itch.io/fish-failure" text="Game Page" %}
-𓆝༄⋆｡°✩</p>
+<p class="text-center">⋆𐙚₊˚⊹♡
+{% include elements/button.html link="https://yonakoi.itch.io/no-place-to-lie" text="Game Page" %}
+⋆𐙚₊˚⊹♡</p>
 
 ## Overview
 
@@ -30,4 +30,4 @@ Lead Designer.
 ![preview](../images/fish-failure-levels.png)
 ![search](../images/fish-failure-gameplay.png)
 
-<p class="text-center">⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p>
+<p class="text-center">⊹ ࣪⋅˚₊‧ ୨୧ ‧₊˚ ⋅</p>
