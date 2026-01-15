@@ -25,7 +25,7 @@ Arrow Keys to move, Z to interact, X to cancel. There are 4 endings based on the
 
 I was a Lead Designer. I worked in a team of 3 to create a playable visual novel utilizing RPGMaker MV. I collaborated with my team members to create the narration, character designs, and concept art. On my own, I compiled all game assets, story, and soundtrack for final implementation, as well as created all pixel art assets in game using ReSprite. 
 
-CGs by
+CGs by my artist, lokikvn!
 ![preview](../images/no-place-to-lie-home-screen.png)
 ![search](../images/no-place-to-lie-intro-cg.png)
 
