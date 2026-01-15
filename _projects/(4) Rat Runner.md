@@ -1,7 +1,7 @@
 ---
 name: Rat Runner
 tools: [C#, Unity, Procreate]
-image: ../images/azuki-bar.png
+image: ../images/rat-runner-itch-cover.png
 description: Play as rat trying to escape a mad scientist's maze while avoiding corrupt rat comrades. Find the key, and don't get caught. Team project using 3D assets and 2D menus in Unity. Click to learn more.
 ---
 # Rat Runner
