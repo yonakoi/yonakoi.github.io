@@ -2,10 +2,10 @@
   percentage: 100
   color: info
 
-- name: Maya
-  percentage: 70
+- name: Unity
+  percentage: 90
   color: info
 
-- name: After Effects
-  percentage: 100
+- name: Adobe
+  percentage: 90
   color: success
