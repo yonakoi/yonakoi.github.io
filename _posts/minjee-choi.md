@@ -1,8 +1,8 @@
 ---
 title: Minjee (MINA) Choi
 tags: [Nanasaki]
-style: 
-color:
+color: danger
 image: ../images/characters/character-sheet-mina.PNG
-description: 
+description: A renowned genius in the entertainment industry, the idol MINA☆ !!
 ---
+
