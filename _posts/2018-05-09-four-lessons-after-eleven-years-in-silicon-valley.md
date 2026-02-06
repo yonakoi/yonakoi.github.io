@@ -1,9 +1,9 @@
 ---
-title: 4 Lessons After 11 Years in Silicon Valley
-tags: 
+title: Ayuma
+tags: [Azuki Bar]
 style: fill
 color: success
-description: On the realities of opportunity, success, reputation, and relationships in tech.
+description: A detective working as an undercover part time bartender to solve the mystery of a reappearing serial killer.
 ---
 
 Source: [Ashley Mayer](https://medium.com/s/story/four-lessons-after-eleven-years-in-silicon-valley-d87507b7a4f6)
