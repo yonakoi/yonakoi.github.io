@@ -1,9 +1,9 @@
 ---
-title: Clean Coding
-tags: [Software Development, Clean Code]
-style: fill
-color: info
-description: These four “clean code” tips will dramatically improve your engineering team’s productivity
+title: Bonnie Montclair
+tags: [No Place to Lie]
+style: 
+color: 
+description: A girl who always has a smile on her face. The bigger the secret, the bigger the smile.
 ---
 
 Source: [Jonathan Fulton](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)

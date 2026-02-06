@@ -1,9 +1,9 @@
 ---
-title: Learn React.js in 5 minutes
-tags: [React, JavaScript, Web Development]
-style: border
-color: primary
-description: A quick introduction to the popular JavaScript library.
+title: Jin Kang
+tags: [Nanasaki]
+style: 
+color: danger
+description: A cold hearted law student who would do anything for his love.
 ---
 
 Source: [freecodecamp](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
