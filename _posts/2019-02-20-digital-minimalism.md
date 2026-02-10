@@ -10,21 +10,30 @@ description: A renowned genius in the entertainment industry, the idol MINA☆ !
 ![preview](../images/characters/character-sheet-mina.png)
 
 Nicknames/Alias: MINA𖤐
+
 Age: 22
+
 Birthday: May 16th
+
 Height: 5’7
+
 Gender: Female
+
 Sexuality: Bi
+
 Species/Race: Human
 
 Affiliation(s):
 Nanasaki 
 USANG Entertainment
+
 Occupation(s):
 Celebrity/Idol
+
 Relatives:
 Father - deceased
 Mother - complicated
+
 Relationships:
 Jin Kang - Lover
 Sua Kang - Best friend
