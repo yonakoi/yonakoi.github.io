@@ -55,7 +55,7 @@ Currently Listening To: Megitsune - Babymetal
 <div class="artworks-gallery">
     {% for file in site.static_files %}
         {% if file.path contains "images/characters/minjee-choi" %}
-        {% if file.extname == '.png' or file.extname == '.PNG' %}
+        {% if file.extname == '.png' or file.extname == '.PNG' or file.extname == '.jpeg' or file.extname = '.JPEG' %}
             
             {% assign filenameparts = file.path | split: "/" %}
             {% assign filename = filenameparts | last | replace: file.extname,"" %}
