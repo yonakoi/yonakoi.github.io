@@ -1,7 +1,7 @@
 ---
 title: Junichiro Ueno
 tags: [Hamori]
-style: fill
-color: light
+style: 
+color: dark
 description: A detective who specializes in yokai cases.
 ---

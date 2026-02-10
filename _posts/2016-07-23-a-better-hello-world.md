@@ -1,7 +1,7 @@
 ---
 title: Gaki Yuzuha
 tags: [Hamori]
-style: fill
+style: 
 color: dark
 description: Half human, half yokai.
 ---
