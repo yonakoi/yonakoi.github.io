@@ -9,36 +9,30 @@ description: A renowned genius in the entertainment industry, the idol MINA☆ !
 
 ![preview](../images/characters/character-sheet-mina.png)
 
-Nicknames/Alias: MINA𖤐
+Nicknames/Alias: MINA𖤐<br>
+Age: 22<br>
+Birthday: May 16th<br>
+Height: 5’7<br>
+Gender: Female<br>
+Sexuality: Bi<br>
+Species/Race: Human<br>
 
-Age: 22
+Affiliation(s):<br>
+Nanasaki <br>
+USANG Entertainment<br>
 
-Birthday: May 16th
+Occupation(s):<br>
+Celebrity/Idol<br>
 
-Height: 5’7
+Relatives:<br>
+Father - deceased<br>
+Mother - complicated<br>
 
-Gender: Female
-
-Sexuality: Bi
-
-Species/Race: Human
-
-Affiliation(s):
-Nanasaki 
-USANG Entertainment
-
-Occupation(s):
-Celebrity/Idol
-
-Relatives:
-Father - deceased
-Mother - complicated
-
-Relationships:
-Jin Kang - Lover
-Sua Kang - Best friend
-Band members - Sora Kazuya, Ayako Saito, Nagisa Hanamine, Sua Kang
-Yuichiro Saotome - Close friend with a sibling like relationship
+Relationships:<br>
+Jin Kang - Lover<br>
+Sua Kang - Best friend<br>
+Band members - Sora Kazuya, Ayako Saito, Nagisa Hanamine, Sua Kang<br>
+Yuichiro Saotome - Close friend with a sibling like relationship<br>
 
 Lore: As she’s built her reputation and become the #1 sensation across the world, she got invited to join a competition show with other famous celebrities from around the world. This show… turns out to be a death game that she can’t escape. When she arrives, something resembling a system window pops up in front of everyone in the world, announcing the death games, with this show being one of them. The only way to live is to outshine the others, so she performs to save her own life. Throughout the games, she gets less and less in touch with her humanity, losing her sanity from all the deaths she sees while also trying to keep it together and perform as the perfect angel everyone makes her out to be.
 
