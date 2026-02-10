@@ -1,5 +1,5 @@
 ---
-title: Minjee (MINA) Choi
+title: Minjee Choi
 tags: [Nanasaki]
 style:
 color: danger
@@ -42,9 +42,9 @@ Backstory: Her father died when she was very young in an accident, and her mothe
 
 Powers/Abilities: Her "ability" is that she can trick people into loving her through her performances and the way she meticulously presents herself at every moment.
 
-Character Inspirations: Ai Hoshino 
-Voice Claim: Sumetal (lead vocalist) from Babymetal
-Currently Listening To: Megitsune - Babymetal
+Character Inspirations: Ai Hoshino (Oshi no Ko)<br>
+Voice Claim: Sumetal (lead vocalist) from Babymetal<br>
+Currently Listening To: Megitsune - Babymetal<br>
 
 <p class="text-center">⋆𐙚₊˚⊹♡
 {% include elements/button.html link="https://vsona.co/minjee-mina-choi" text="Visit her VGen!" %}
