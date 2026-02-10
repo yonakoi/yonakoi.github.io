@@ -6,6 +6,8 @@ color: danger
 description: A cold hearted law student who would do anything for his love.
 ---
 
+WIP
+
 ## Jin Kang
 
 Nicknames/Alias: N/A <br>
@@ -19,18 +21,18 @@ Species/Race: Human <br>
 Affiliation(s):
 
 
-Occupation(s):
-Law Student
+Occupation(s):<br>
+Law Student<br>
 
-Relatives:
-Sua - Younger sister
-Jiho - Twin brother
-Mother - Good standing
-Father - Not talking to
+Relatives:<br>
+Sua - Younger sister<br>
+Jiho - Twin brother<br>
+Mother - Good standing<br>
+Father - Not talking to<br>
 
-Relationships:
-Minjee - Lover
-Sora - Best friend
+Relationships:<br>
+Minjee - Lover<br>
+Sora - Best friend<br>
 
 Lore:
 
