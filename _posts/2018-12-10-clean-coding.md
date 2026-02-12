@@ -31,14 +31,7 @@ Evelyn - High school sweethearts. Bonnie was too afraid to open up to Evelyn. If
 
 Lore: Bonnie got into a car accident. She had an attack from her health (coughing fit, heart problem, etc) that distracted her from the wheel causing the accident with her death and the other person still living.
 
-Personality: 
-Fake asf bro
-Won’t let her true self shine because she’s afraid of rejection
-Hides her ‘ugly’ emotions – wants to be flawless
-Doesn’t like admitting weakness because of how she’s been treated as fragile her whole life
-Jappy Holly
-Strong-willed
-Stubborn
+Personality: She is always seen as someone who is bright and smiling. However, she has a clear wall that doesn't allow her to let anyone into her life, not even her girlfriend. She doesn't let her true self shine because she’s afraid of rejection, and hides her ‘ugly’ emotions – she wants to be flawless. She's a strong willed and stubborn girl who doesn’t like admitting weakness because of how she’s been treated as fragile her whole life.
 
 Backstory: She’s always been sick her whole life. Because of this, her parents were extra doting and caring towards her. To Bonnie’s dismay, they treated her like she could break at any moment, so she hid her weaknesses to avoid similar treatment from others. Some time in elementary school, her condition wasn’t hidden - it was out in the open. Because of this, the adults around her would act like her parents, and the kids would generally stay away from her so as not to be held responsible if something did happen.
 
