@@ -7,12 +7,14 @@ description: This page is to show off some other character designs I have create
 ---
 
 ## Cho Tarkovsky
+![preview](../images/characters/other-characters/cho-tarkovsky.png)
 
 A jumpy kid who can see ghosts and spirits.
 
 ## Guinevere "Winnie" Jenkins
+![preview](../images/characters/other-characters/commission-ievifav.png)
 
-A girl who aspires to be a detective and has the wits and energy to match.
+Commission by ievifav on instagram!! The girl on the left, who aspires to be a detective and has the wits and energy to match.
 
 ## Yuichiro Saotome
 
