@@ -44,7 +44,7 @@ Currently Listening To: Back to Me - The Marias<br>
 
 <div class="artworks-gallery">
     {% for file in site.static_files %}
-        {% if file.path contains "./images/characters/bonnie-montclair" %}
+        {% if file.path contains "images/characters/bonnie-montclair" %}
         {% if file.extname == '.png' or file.extname == '.PNG' or file.extname == '.jpeg' or file.extname = '.JPEG' %}
             
             {% assign filenameparts = file.path | split: "/" %}
