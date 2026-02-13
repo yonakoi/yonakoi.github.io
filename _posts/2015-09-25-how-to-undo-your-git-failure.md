@@ -18,7 +18,7 @@ A girl who aspires to be a detective and has the wits and energy to match.
 
 ## Yuichiro Saotome
 
-A blunt man with a slight temper. He works for his 
+A blunt man with a slight temper. He works for his dad and helped host Nanasaki when they debuted.
 
 ## Sora Kazuya
 
