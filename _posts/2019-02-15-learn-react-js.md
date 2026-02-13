@@ -38,9 +38,9 @@ Lore: When the performance games began, Jin desperately fought to save Mina. How
 
 Personality: He's quiet, but not cold. At first, he was a very loving person, however, as he goes through more and more timelines, he becomes more unforgiving. He starts to prioritize the lives of others less, as his one goal remains unchanged, no matter who the sacrifice is.
 
-Backstory:
+Backstory: When he was a kid, he had a twin brother, Jiho. They were the sons of a rich man, along with their younger sister, Sua. At a young age, Sua and Jin got seperated from Jiho and their father. Their father took Jiho and seperated from their mother. Shortly after that, Sua met Minjee, and the two became inseperable best friends until Minjee moved away. During this time, Jin had always watched Minjee from a distance, blinded by her radiance. When she moved, he would think about her frequently, and when he thought he had finally moved on, she appeared in his life again as an idol. This time, he wasn't going to let her go.
 
-Powers/Abilities: He can turn back time to the day before the games began using a pocket watch he was given.
+Powers/Abilities: He can turn back time to the day before the games began using a pocket watch he was given. 
 
 Voice Claim: Akugetsu <br>
 Currently Listening To: Shoot Your Head - FatDog<br>

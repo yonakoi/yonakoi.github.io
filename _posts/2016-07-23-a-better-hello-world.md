@@ -7,4 +7,3 @@ description: Half human, half yokai.
 ---
 
 WIP
-
