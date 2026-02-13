@@ -28,24 +28,14 @@ Relatives:<br>
 None<br>
 
 Relationships:<br>
-Bartender Kun: insert roblox man face
-References in their relationship: Shuake, Ivantill, Rodent
-Shuake: the way akechi acts around joker - nice, competitive, but fueled with hatred
-Ivantill - Ivan’s inability to express his emotions clearly, and the line between hate and love in their relationship. Also toxic yaoi
-Rodent - they kill each other or something
-Jun: Coworker and son of the CEO(?) of the detective agency 
+Bkun - Ayuma is interested in Bkun because of how little is known about him; the more Bkun tries to hide it, the more Ayuma tries to pursue it. Ayuma’s competitiveness to get B-kun to open up grows into love, and A-kun is aware of his feelings, which turns into frustration. Ayuma’s behavior over time becomes obsessive - his actions towards B-kun can be viewed as acts of hate, making the player believe Ayuma has a deep hatred for B-kun – but it’s not B-kun he hates, but rather the situation – the fact that B-kun doesn’t feel the same way. Ayuma makes B-kun an actual living person with a story, rather than an unnoticed/unacknowledged stranger in the crowd. <br>
+Jun - Coworker and son of the CEO(?) of the detective agency <br>
 
-Lore: 
+Lore: Ayuma is currently working as a part time bartender undercover to get more information for his case on a serial killer. During his time at the bar, he meets Bkun, and starts to struggle with his priorities for the case and his growing emotions for Bkun. 
 
-Personality: Akun is someone who is confident and flirtatious (much to Bkuns dismay). He is a very sharp person, and can observe small details and read the room. In times of crisis he tends to be impulsive & reliant on gut feeling rather than his usual observance. 
+Personality: Ayuma is someone who is confident and flirtatious (much to Bkuns dismay). He is a very sharp person, and can observe small details and read the room. In times of crisis he tends to be impulsive & reliant on gut feeling rather than his usual observance. 
 
-Backstory:
-Parents died to either A-kun killing them, someone else killing them causing akun to pursue being a detective, or them abandoning him and him becoming orphan
-Akun accidentally killed someone once
-
-Powers/Abilities:
-FLIRTING!!
-Akun uses FLIRTING on Bkun!! It’s not very effective…
+Backstory: Ayuma has been alone for the majority of his life. Because of this, Ayuma has never experienced any sort of familial or intimate love, so he doesnt know the boundaries between attraction, love, and obsession, it all combines into one for him. Ayuma's loneliness only feeds into his behaviors around Bkun – him being alone his entire life is a vital part to his feelings towards Bkun and Bkun’s rejections.
 
 Voice Claim: Osamu Dazai - Bungou Stray Dogs<br>
 Currently Listening To: Paradise - The Neighbourhood<br>

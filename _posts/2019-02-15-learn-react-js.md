@@ -2,7 +2,7 @@
 title: Jin Kang
 tags: [Nanasaki]
 style: 
-color: danger
+color: info
 description: A cold hearted law student who would do anything for his love.
 ---
 

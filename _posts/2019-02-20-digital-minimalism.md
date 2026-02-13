@@ -2,7 +2,7 @@
 title: Minjee Choi
 tags: [Nanasaki]
 style:
-color: danger
+color: info
 description: A renowned genius in the entertainment industry, the idol MINA☆ !!
 ---
 ## ☆Minjee Choi☆ 
