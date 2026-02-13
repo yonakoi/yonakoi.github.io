@@ -26,7 +26,8 @@ Relatives:<br>
 Evelyn moved away from her parents with no contact after breaking up with Bonnie. She doesn’t have any other relatives.<br>
 
 Relationships:<br>
-Bonnie - Lover. Evelyn feels like Bonnie doesn’t trust her enough to be herself. She gets angry at Bonnie for always smiling when things aren’t okay, even when they broke up. Sometimes during their relationship, Bonnie’s mask would crack, showing a more possessive side, but in the end she’d always cover it up with some excuse or go back to being her “usual” self.<br>
+Bonnie Montclair - Lover. Evelyn feels like Bonnie doesn’t trust her enough to be herself. She gets angry at Bonnie for always smiling when things aren’t okay, even when they broke up. Sometimes during their relationship, Bonnie’s mask would crack, showing a more possessive side, but in the end she’d always cover it up with some excuse or go back to being her “usual” self.<br>
+Brooks Montclair - Bonnie's older sibling. They seem to have one sided resentment for Evelyn.<br>
 
 
 Lore: After Bonnie died, she was depressed and lost. After talking with Bonnie’s parents and spending a short amount of time with them after the accident, she realized she never really knew Bonnie at all. The way Bonnie’s parents saw her was completely different from Evelyn’s perception, setting her off and questioning her self-worth, due to Bonnie not showing her true self or anything about her condition or past despite their years of dating. <br>

@@ -6,8 +6,6 @@ color: info
 description: A cold hearted law student who would do anything for his love.
 ---
 
-WIP
-
 ## Jin Kang
 
 Nicknames/Alias: N/A <br>
@@ -25,14 +23,14 @@ Occupation(s):<br>
 Law Student<br>
 
 Relatives:<br>
-Sua - Younger sister<br>
-Jiho - Twin brother<br>
+Sua Kang - Younger sister<br>
+Jiho Kang - Twin brother<br>
 Mother - Good standing<br>
 Father - Not talking to<br>
 
 Relationships:<br>
-Minjee - Lover<br>
-Sora - Best friend<br>
+Minjee Choi - Lover<br>
+Sora Kazuya - Best friend<br>
 
 Lore: When the performance games began, Jin desperately fought to save Mina. However, he was too late. When he arrived, he was in the crowd of people cheering her on, trying to shove past people as fast as possible. Once he reaches the first row, he attempts to climb on the stage. However, a loud noise rings throughout the stage, and blood starts to spill. Minjee has died, and she died to protect someone. Jin was also hurt for breaking the rules, and as he lays dying and desperately grasping for Minjee, a strange pocket watch gets thrown on the stage. Jin instinctively reaches out for it, and as he squeezes it, he goes unconscious. When he wakes up... He's on the day everything started again.
 

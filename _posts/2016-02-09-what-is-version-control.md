@@ -6,8 +6,6 @@ color: danger
 description: A strange, yet alluring woman you can't help but be drawn to.
 ---
 
-WIP
-
 ## Hanako Taeko
 
 ![preview](../images/characters/character-thumbnail-hanako.png)
@@ -29,7 +27,7 @@ Hamori Executive <br>
 Relatives:<br>
 Himiko Taeko - Twin sister, deceased<br>
 Older brother - deceased<br>
-Parents- deceased<br>
+Parents - deceased<br>
 
 Relationships:<br>
 Nagori - A kid Hanako found on a job. She took her in as an apprentice, but isn't the ideal parent...<br>

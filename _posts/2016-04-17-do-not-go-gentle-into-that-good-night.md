@@ -31,7 +31,7 @@ Second Sibling: Distant, hates Jun because she blames him for the death of her "
 The two siblings are twins.<br>
 
 Relationships:<br>
-Gaki - Complicated; enemies<br>
+Gaki - Jun can’t help but hope for the person Gaki once was before they split up. After all, that’s who he’s been searching for this whole time. Gaki is fully aware of this, but can never go back to the way he was. Because of this, Gaki doesn’t think Jun is ever capable of seeing the current him, but a ghost of him.<br>
 Chiemi - Close friends; they banter like siblings do<br>
 Nagori - found family little sister<br>
 

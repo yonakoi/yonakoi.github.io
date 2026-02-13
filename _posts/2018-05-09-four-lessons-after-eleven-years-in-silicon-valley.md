@@ -6,8 +6,6 @@ color: warning
 description: A detective working as an undercover part time bartender to solve the mystery of a reappearing serial killer.
 ---
 
-WIP
-
 Nicknames/Alias: A-kun<br>
 Age: 26<br>
 Birthday: March 12 20XX<br>

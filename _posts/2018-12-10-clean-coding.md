@@ -25,9 +25,11 @@ Assistant Investigator<br>
 Relatives:<br>
 Mother - a soft spoken but kind woman. She’s very paranoid about Bonnie’s health<br>
 Father - the kind of guy that calls bonnie kiddo. Became closed off and silent when Bonnie died<br>
+Brooks Montclair - her older sibling.<br>
 
 Relationships:<br>
 Evelyn - High school sweethearts. Bonnie was too afraid to open up to Evelyn. If she did, and Evelyn treated her just like everyone else did, it would be too much for her to bear. So, the closer they got, the more Bonnie hid. <br>
+Hittan Run - her sibling's lover. He treats her with care.<br>
 
 Lore: Bonnie got into a car accident. She had an attack from her health (coughing fit, heart problem, etc) that distracted her from the wheel causing the accident with her death and the other person still living.
 
