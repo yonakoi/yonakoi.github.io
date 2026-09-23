@@ -18,7 +18,7 @@ I am always eager to learn new technologies, improve my skills, and collaborate 
 <br><br>
 For a little background on my passion for games and programming, I have appreciated the art and stories of video games since I discovered Undertale at a young age. The story, the art, the emotional rollercoaster, all of it inspired me to create. I didn't always know if Game Design was something I wanted to pursue. I dabbled a bit in "coding" in middle school, meaning block coding in scratch, but it didn't pique my interest. That was until about halfway through high school, in my first coding class, when I knew Game Design was the career for me. Solving problems in coding is a satisfaction almost nothing else can compare to. I will actively pursue my dream to change lives the way Undertale changed mine. I want to create to inspire others.
 <br><br>
-As of now, I am looking for a Summer 2026 Co-Op in Game Design, Software Engineering, Technical Artist, or UI/UX Design. I look forward to getting to know you! 
+As of now, I am looking for a full time position in Game Design, Software Engineering, Technical Artist, or UI/UX Design, available mid January 2027. I look forward to getting to know you! 
 <br><br>
 *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
 <div class="row">
