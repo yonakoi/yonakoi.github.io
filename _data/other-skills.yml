@@ -2,6 +2,10 @@
   percentage: 100
   color: info
 
+- name: Clip Studio Paint
+  percentage: 70
+  color: info
+
 - name: Unity
   percentage: 90
   color: info
