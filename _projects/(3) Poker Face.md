@@ -14,6 +14,10 @@ description: What's life without a little risk? Demo visual novel created in the
 
 Poker Face is a short choice-based visual novel, where a girl, Haneul Lee, stumbles into a casino known for its high society culture, and meets the beloved model, Irina Engel. By using each other for their own gain, they start to develop a relationship through risk and loss.
 
+## Gameplay
+
+When creating the gameplay, I wanted it to be different than just regular poker - to avoid using mechanics that already exist. I decided to make a gameplay that revolves around the idea of a 'poker face.' The player must choose actions that can keep Haneul level headed. These actions are judged by her opponent, Irina, who reads Haneul's behaviors and decides her next action based on it. The more stressed out she gets, the more likely she is to fold under pressure. In the future, I'd like to add more than just choice based gameplay, such as a quick time action. 
+
 ![preview](../images/poker-face-gameplay.png)
 Gameplay screenshot.
 
