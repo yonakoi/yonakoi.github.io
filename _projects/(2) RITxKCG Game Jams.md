@@ -1,7 +1,7 @@
 ---
 name: RITxKCG Game Jams
 tools: [Unity, C#, Clip Studio Paint]
-image: ../images/pokemon-finder.png
+image: 
 description: 2 weekend long game jams hosted by Kyoto Computer Gakuin in collaboration with the Rochester Institute of Technology. Collaborated with Japanese students to create 2 games based on 2 different themes - punch and onomatopoeia. Click to learn more.
 ---
 # RITxKCG
