@@ -48,7 +48,7 @@ Currently Listening To: Shoot Your Head - FatDog<br>
 <div class="artworks-gallery">
     {% for file in site.static_files %}
         {% if file.path contains "images/characters/jin-kang" %}
-        {% if file.extname == '.png' or file.extname == '.PNG' or file.extname == '.jpeg' or file.extname = '.JPEG' %}
+        {% if file.extname == '.png' or file.extname == '.PNG' or file.extname == '.jpeg' or file.extname == '.JPEG' %}
             
             {% assign filenameparts = file.path | split: "/" %}
             {% assign filename = filenameparts | last | replace: file.extname,"" %}

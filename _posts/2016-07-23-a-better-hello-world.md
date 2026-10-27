@@ -63,7 +63,7 @@ Currently Listening To: Like Him – Tyler the Creator<br>
 <div class="artworks-gallery">
     {% for file in site.static_files %}
         {% if file.path contains "images/characters/gaki-yuzuha" %}
-        {% if file.extname == '.png' or file.extname == '.PNG' or file.extname == '.jpeg' or file.extname = '.JPEG' %}
+        {% if file.extname == '.png' or file.extname == '.PNG' or file.extname == '.jpeg' or file.extname == '.JPEG' %}
             
             {% assign filenameparts = file.path | split: "/" %}
             {% assign filename = filenameparts | last | replace: file.extname,"" %}
