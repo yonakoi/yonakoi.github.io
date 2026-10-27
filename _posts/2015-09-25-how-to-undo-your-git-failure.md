@@ -16,6 +16,10 @@ A jumpy kid who can see ghosts and spirits.
 
 Commission by ievifav on instagram!! The girl on the left, who aspires to be a detective and has the wits and energy to match.
 
+## Ajeong Jang
+
+A girl who loves beauty and cosmetics. Has a bit of a temper and is quite vain, but generally means no harm.
+
 ## Yuichiro Saotome
 
 A blunt man with a slight temper. He works for his dad and helped host Nanasaki when they debuted.
