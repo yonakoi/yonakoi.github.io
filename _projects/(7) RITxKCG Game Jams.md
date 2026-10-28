@@ -9,6 +9,9 @@ description: 2 weekend long game jams hosted by Kyoto Computer Gakuin in collabo
 <p class="text-center">⋅˚₊‧ᯓ
 {% include elements/button.html link="https://corinafart.itch.io/shojiscreen" text="Shoji Punch!!!" %}⋅˚₊‧ᯓ
 </p>
+<p class="text-center">⋅˚₊‧ᯓ
+{% include elements/button.html link="https://chessmix.itch.io/fih" text="Fih" %}⋅˚₊‧ᯓ
+</p>
 
 ## Overview
 
